@@ -125,3 +125,10 @@ To run the full test suite, execute:
 ```bash
 ./mvnw clean test
 ```
+
+
+# 📄 License
+
+This project is **proprietary** and intended for enterprise store-management use.
+
+All rights reserved unless explicitly stated otherwise by the project owner.
